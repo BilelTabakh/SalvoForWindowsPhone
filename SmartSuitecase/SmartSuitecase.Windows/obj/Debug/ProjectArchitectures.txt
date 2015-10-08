@@ -1,0 +1,1 @@
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.Windows\SmartSuitecase.Windows.csproj;neutral

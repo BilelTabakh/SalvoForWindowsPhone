@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ACHRAF</Machine>
+    <WindowsUser>TrabelsiAchraf</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d5bb60c3-7ea2-4309-be83-67678142d864</PackageIdentityName>
+    <IntermediateOutputPath>D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>7F26EF49B45257A1C7DCA7DF9E63BA8BC50525CAE76CE768CD73675C57BAB301</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d5bb60c3-7ea2-4309-be83-67678142d864_1.0.0.0_neutral__ctz3bdhh32sze</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d5bb60c3-7ea2-4309-be83-67678142d864_ctz3bdhh32sze!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d5bb60c3-7ea2-4309-be83-67678142d864</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=TrabelsiAchraf</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-28T13:47:54.003</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.Windows\bin\Debug\SmartSuitecase.Windows.exe">
+      <PackagePath>SmartSuitecase.Windows.exe</PackagePath>
+      <Modified>2015-04-28T13:47:52.634</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-04-28T13:47:52.222</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-04-28T13:47:52.222</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.Windows\bin\Debug\SmartSuitecase.Windows.xr.xml">
+      <PackagePath>SmartSuitecase.Windows.xr.xml</PackagePath>
+      <Modified>2015-02-10T05:16:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-28T13:47:52.952</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

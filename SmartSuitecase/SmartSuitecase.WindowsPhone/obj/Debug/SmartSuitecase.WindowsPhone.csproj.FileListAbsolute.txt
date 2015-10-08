@@ -1,0 +1,411 @@
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\AboutPage.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\BuiltInScalePage.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\AboutTile.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\StatsTile.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\SettingTile.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\LiveTileFour.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\HomeTile.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\BuiltInScaleTile.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\LockUnlockTile.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\TrackLocationTile.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\HomePage.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\LockUnlockPage.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\SettingPage.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\StatsPage.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\TrackLocationPage.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\SmartSuitecase.WindowsPhone.xr.xml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\SmartSuitecase.WindowsPhone.exe
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\SmartSuitecase.WindowsPhone.pdb
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\SmartSuitecase.WindowsPhone.build.appxrecipe
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\WinRTXamlToolkit.Controls.DataVisualization.dll
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\WinRTXamlToolkit.dll
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\WinRTXamlToolkit.pri
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SmartSuitecase.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\AboutPage.g.i.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\AboutPage.g.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\BuiltInScalePage.g.i.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\BuiltInScalePage.g.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\AboutTile.g.i.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\AboutTile.g.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\StatsTile.g.i.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\StatsTile.g.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\SettingTile.g.i.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\SettingTile.g.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LiveTileFour.g.i.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LiveTileFour.g.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\HomeTile.g.i.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\HomeTile.g.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\BuiltInScaleTile.g.i.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\BuiltInScaleTile.g.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LockUnlockTile.g.i.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LockUnlockTile.g.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\TrackLocationTile.g.i.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\TrackLocationTile.g.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\HomePage.g.i.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\HomePage.g.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\LockUnlockPage.g.i.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\LockUnlockPage.g.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SettingPage.g.i.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SettingPage.g.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\StatsPage.g.i.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\StatsPage.g.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\TrackLocationPage.g.i.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\TrackLocationPage.g.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\AboutPage.xaml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\BuiltInScalePage.xaml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\AboutTile.xaml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\StatsTile.xaml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\SettingTile.xaml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LiveTileFour.xaml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\HomeTile.xaml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\BuiltInScaleTile.xaml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LockUnlockTile.xaml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\TrackLocationTile.xaml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\HomePage.xaml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\LockUnlockPage.xaml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SettingPage.xaml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\StatsPage.xaml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\TrackLocationPage.xaml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\AboutPage.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\BuiltInScalePage.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\AboutTile.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\StatsTile.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\SettingTile.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LiveTileFour.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\HomeTile.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\BuiltInScaleTile.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LockUnlockTile.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\TrackLocationTile.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\HomePage.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\LockUnlockPage.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SettingPage.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\StatsPage.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\TrackLocationPage.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SmartSuitecase.WindowsPhone.exe
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SmartSuitecase.WindowsPhone.pdb
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\en-US\WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources.resw
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SmartSuitecase.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\qualifiers.txt
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\WinRTXamlToolkit.pri.xml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri.xml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SmartSuitecase.WindowsPhone.csprojResolveAssemblyReference.cache
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\App.g.i.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\App.g.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\AboutPage.g.i.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\AboutPage.g.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\BuiltInScalePage.g.i.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\BuiltInScalePage.g.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\AboutTile.g.i.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\AboutTile.g.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\ImageSecTile.g.i.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\ImageSecTile.g.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\StatsTile.g.i.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\StatsTile.g.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\SettingTile.g.i.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\SettingTile.g.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LiveTileFour.g.i.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LiveTileFour.g.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\HomeTile.g.i.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\HomeTile.g.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\BuiltInScaleTile.g.i.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\BuiltInScaleTile.g.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LockUnlockTile.g.i.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LockUnlockTile.g.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\TrackLocationTile.g.i.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\TrackLocationTile.g.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\HomePage.g.i.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\HomePage.g.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\LockUnlockPage.g.i.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\LockUnlockPage.g.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SecurityImagesPage.g.i.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SecurityImagesPage.g.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SettingPage.g.i.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SettingPage.g.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\StatsPage.g.i.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\StatsPage.g.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\TrackLocationPage.g.i.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\TrackLocationPage.g.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\App.xaml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\AboutPage.xaml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\BuiltInScalePage.xaml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\StatsTile.xaml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\SettingTile.xaml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LiveTileFour.xaml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\HomeTile.xaml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\BuiltInScaleTile.xaml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LockUnlockTile.xaml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\TrackLocationTile.xaml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\HomePage.xaml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\LockUnlockPage.xaml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SettingPage.xaml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\StatsPage.xaml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\TrackLocationPage.xaml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\App.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\AboutPage.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\BuiltInScalePage.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\StatsTile.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\SettingTile.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LiveTileFour.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\HomeTile.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\BuiltInScaleTile.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LockUnlockTile.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\TrackLocationTile.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\HomePage.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\LockUnlockPage.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SettingPage.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\StatsPage.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\TrackLocationPage.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\AboutTile.xaml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\ImageSecTile.xaml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\MainPage.xaml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SecurityImagesPage.xaml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\AboutTile.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\ImageSecTile.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\MainPage.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SecurityImagesPage.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\App.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\AboutPage.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\BuiltInScalePage.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\AboutTile.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\ImageSecTile.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\StatsTile.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\SettingTile.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\LiveTileFour.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\HomeTile.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\BuiltInScaleTile.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\LockUnlockTile.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\TrackLocationTile.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\HomePage.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\LockUnlockPage.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\MainPage.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\SecurityImagesPage.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\SettingPage.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\StatsPage.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\TrackLocationPage.xbf
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\SmartSuitecase.WindowsPhone.xr.xml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\SmartSuitecase.WindowsPhone.exe
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\SmartSuitecase.WindowsPhone.pdb
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\resources.pri
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\AppxManifest.xml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\SmartSuitecase.WindowsPhone.build.appxrecipe
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\WinRTXamlToolkit.Controls.DataVisualization.dll
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\WinRTXamlToolkit.dll
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\WinRTXamlToolkit.pri
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SmartSuitecase.WindowsPhone.exe
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SmartSuitecase.WindowsPhone.pdb
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\en-US\WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources.resw
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SmartSuitecase.WindowsPhone.csproj.GenerateResource.Cache
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\qualifiers.txt
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\priconfig.xml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\layout.resfiles
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\resources.resfiles
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\pri.resfiles
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\qualifiers.txt
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\WinRTXamlToolkit.pri.xml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri.xml
+D:\Develop\Windows Phone\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\ImageSecTile.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\SecurityImagesPage.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\ImageSecTile.g.i.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\ImageSecTile.g.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SecurityImagesPage.g.i.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SecurityImagesPage.g.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\ImageSecTile.xaml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\ImageSecTile.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SecurityImagesPage.xaml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SecurityImagesPage.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\SecurityPicturePage.xbf
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SecurityPicturePage.g.i.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SecurityPicturePage.g.cs
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SecurityPicturePage.xaml
+C:\Users\Oussama\Documents\Visual Studio 2013\Projects\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SecurityPicturePage.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\AboutPage.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\BuiltInScalePage.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\AboutTile.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\ImageSecTile.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\StatsTile.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\SettingTile.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\LiveTileFour.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\HomeTile.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\BuiltInScaleTile.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\LockUnlockTile.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Custom\TrackLocationTile.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\HomePage.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\LockUnlockPage.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\SecurityImagesPage.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\SecurityPicturePage.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\SettingPage.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\StatsPage.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\TrackLocationPage.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\SmartSuitecase.WindowsPhone.xr.xml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\SmartSuitecase.WindowsPhone.exe
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\SmartSuitecase.WindowsPhone.pdb
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\SmartSuitecase.WindowsPhone.build.appxrecipe
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\WinRTXamlToolkit.Controls.DataVisualization.dll
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\WinRTXamlToolkit.dll
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\WinRTXamlToolkit.pri
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SmartSuitecase.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\AboutPage.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\AboutPage.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\BuiltInScalePage.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\BuiltInScalePage.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\AboutTile.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\AboutTile.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\ImageSecTile.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\ImageSecTile.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\StatsTile.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\StatsTile.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\SettingTile.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\SettingTile.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LiveTileFour.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LiveTileFour.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\HomeTile.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\HomeTile.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\BuiltInScaleTile.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\BuiltInScaleTile.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LockUnlockTile.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LockUnlockTile.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\TrackLocationTile.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\TrackLocationTile.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\HomePage.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\HomePage.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\LockUnlockPage.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\LockUnlockPage.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SecurityImagesPage.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SecurityImagesPage.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SecurityPicturePage.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SecurityPicturePage.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SettingPage.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SettingPage.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\StatsPage.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\StatsPage.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\TrackLocationPage.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\TrackLocationPage.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\AboutPage.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\BuiltInScalePage.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\AboutTile.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\ImageSecTile.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\StatsTile.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\SettingTile.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LiveTileFour.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\HomeTile.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\BuiltInScaleTile.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LockUnlockTile.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\TrackLocationTile.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\HomePage.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\LockUnlockPage.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SecurityImagesPage.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SecurityPicturePage.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SettingPage.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\StatsPage.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\TrackLocationPage.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\AboutPage.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\BuiltInScalePage.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\AboutTile.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\ImageSecTile.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\StatsTile.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\SettingTile.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LiveTileFour.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\HomeTile.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\BuiltInScaleTile.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\LockUnlockTile.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Custom\TrackLocationTile.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\HomePage.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\LockUnlockPage.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SecurityImagesPage.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SecurityPicturePage.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SettingPage.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\StatsPage.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\TrackLocationPage.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SmartSuitecase.WindowsPhone.exe
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SmartSuitecase.WindowsPhone.pdb
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\en-US\WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources.resw
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\SmartSuitecase.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization\qualifiers.txt
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\WinRTXamlToolkit.pri.xml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri.xml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\AddTrip.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\AddTrip.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\AddTrip.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\AddTrip.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\AddTrip.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Menu.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Menu.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Menu.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Menu.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Menu.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\bin\Debug\Register.xbf
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Register.g.i.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Register.g.cs
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Register.xaml
+C:\Users\Bilel\Desktop\PIM\SmartSuitecase\SmartSuitecase\SmartSuitecase.WindowsPhone\obj\Debug\Register.xbf

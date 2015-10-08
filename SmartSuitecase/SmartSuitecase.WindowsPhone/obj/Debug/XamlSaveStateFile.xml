@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\develop\windows phone\smartsuitecase\smartsuitecase\smartsuitecase.windowsphone\obj\debug\intermediatexaml\smartsuitecase.windowsphone.exe" HashGuid="85b982cd-aa80-f5ef-3284-a7f397d12a31" />
+    <ReferenceAssembly PathName="d:\esprit\4sim2\pim\apps\smartsuitecase\packages\newtonsoft.json.7.0.1-beta3\lib\portable-net40+sl5+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="328df7c5-321a-a08e-a400-8dde727da031" />
+    <ReferenceAssembly PathName="d:\esprit\4sim2\pim\apps\smartsuitecase\packages\winrtxamltoolkit.controls.datavisualization.windowsphone.1.8.1.0\lib\wpa\winrtxamltoolkit.controls.datavisualization.dll" HashGuid="9b581ce9-a3d5-c68e-4833-5c7b7f7772c7" />
+    <ReferenceAssembly PathName="d:\esprit\4sim2\pim\apps\smartsuitecase\packages\winrtxamltoolkit.windowsphone.1.8.1.0\lib\wpa\winrtxamltoolkit.dll" HashGuid="221e17c6-64f2-d53e-b7b5-145a2dbe921c" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
